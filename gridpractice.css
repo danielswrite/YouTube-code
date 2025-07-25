@@ -1,0 +1,21 @@
+.main-div,
+.main-div2 {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+}
+
+.main-div2 {
+    margin-top: 10px;
+}
+
+.div1 {
+    background-color: lightblue;
+}
+
+.div2 {
+    background-color: pink;
+}
+
+.div3 {
+    background-color: lightblue;
+}
